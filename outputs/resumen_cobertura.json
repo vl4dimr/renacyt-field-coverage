@@ -1,0 +1,260 @@
+{
+  "autores_totales": 191089,
+  "certificados": 24469,
+  "cobertura_global_pct": 12.8,
+  "subcampos_reportados": 204,
+  "umbral_min_autores": 30,
+  "top10_cobertura": [
+    {
+      "subfield_dom": "Geometry and Topology",
+      "autores": 78,
+      "cobertura_pct": 30.8
+    },
+    {
+      "subfield_dom": "Biochemistry",
+      "autores": 404,
+      "cobertura_pct": 29.7
+    },
+    {
+      "subfield_dom": "Geochemistry and Petrology",
+      "autores": 71,
+      "cobertura_pct": 25.4
+    },
+    {
+      "subfield_dom": "Ecological Modeling",
+      "autores": 220,
+      "cobertura_pct": 25.0
+    },
+    {
+      "subfield_dom": "Radiation",
+      "autores": 120,
+      "cobertura_pct": 25.0
+    },
+    {
+      "subfield_dom": "Atmospheric Science",
+      "autores": 542,
+      "cobertura_pct": 24.7
+    },
+    {
+      "subfield_dom": "Animal Science and Zoology",
+      "autores": 1218,
+      "cobertura_pct": 24.1
+    },
+    {
+      "subfield_dom": "Biomaterials",
+      "autores": 504,
+      "cobertura_pct": 23.6
+    },
+    {
+      "subfield_dom": "Agronomy and Crop Science",
+      "autores": 718,
+      "cobertura_pct": 23.5
+    },
+    {
+      "subfield_dom": "Electronic, Optical and Magnetic Materials",
+      "autores": 117,
+      "cobertura_pct": 23.1
+    }
+  ],
+  "bottom10_cobertura": [
+    {
+      "subfield_dom": "Occupational Therapy",
+      "autores": 1328,
+      "cobertura_pct": 5.8
+    },
+    {
+      "subfield_dom": "Pharmacy",
+      "autores": 443,
+      "cobertura_pct": 5.6
+    },
+    {
+      "subfield_dom": "Software",
+      "autores": 201,
+      "cobertura_pct": 5.5
+    },
+    {
+      "subfield_dom": "Law",
+      "autores": 2986,
+      "cobertura_pct": 5.0
+    },
+    {
+      "subfield_dom": "Management Science and Operations Research",
+      "autores": 529,
+      "cobertura_pct": 4.7
+    },
+    {
+      "subfield_dom": "Issues, ethics and legal aspects",
+      "autores": 45,
+      "cobertura_pct": 4.4
+    },
+    {
+      "subfield_dom": "Life-span and Life-course Studies",
+      "autores": 94,
+      "cobertura_pct": 4.3
+    },
+    {
+      "subfield_dom": "Museology",
+      "autores": 181,
+      "cobertura_pct": 3.9
+    },
+    {
+      "subfield_dom": "General Arts and Humanities",
+      "autores": 83,
+      "cobertura_pct": 3.6
+    },
+    {
+      "subfield_dom": "Internal Medicine",
+      "autores": 44,
+      "cobertura_pct": 2.3
+    }
+  ],
+  "cobertura_por_campo": [
+    {
+      "field_dom": "Veterinary",
+      "autores": 453,
+      "cobertura_pct": 21.6
+    },
+    {
+      "field_dom": "Agricultural and Biological Sciences",
+      "autores": 18801,
+      "cobertura_pct": 18.9
+    },
+    {
+      "field_dom": "Earth and Planetary Sciences",
+      "autores": 2405,
+      "cobertura_pct": 18.5
+    },
+    {
+      "field_dom": "Materials Science",
+      "autores": 1383,
+      "cobertura_pct": 18.0
+    },
+    {
+      "field_dom": "Mathematics",
+      "autores": 667,
+      "cobertura_pct": 17.7
+    },
+    {
+      "field_dom": "Biochemistry, Genetics and Molecular Biology",
+      "autores": 5489,
+      "cobertura_pct": 17.5
+    },
+    {
+      "field_dom": "Environmental Science",
+      "autores": 14308,
+      "cobertura_pct": 16.2
+    },
+    {
+      "field_dom": "Chemistry",
+      "autores": 835,
+      "cobertura_pct": 15.9
+    },
+    {
+      "field_dom": "Immunology and Microbiology",
+      "autores": 2032,
+      "cobertura_pct": 15.4
+    },
+    {
+      "field_dom": "Nursing",
+      "autores": 880,
+      "cobertura_pct": 15.1
+    },
+    {
+      "field_dom": "Physics and Astronomy",
+      "autores": 864,
+      "cobertura_pct": 14.9
+    },
+    {
+      "field_dom": "Pharmacology, Toxicology and Pharmaceutics",
+      "autores": 489,
+      "cobertura_pct": 14.3
+    },
+    {
+      "field_dom": "Engineering",
+      "autores": 10710,
+      "cobertura_pct": 14.0
+    },
+    {
+      "field_dom": "Dentistry",
+      "autores": 3102,
+      "cobertura_pct": 13.8
+    },
+    {
+      "field_dom": "Computer Science",
+      "autores": 13350,
+      "cobertura_pct": 13.2
+    },
+    {
+      "field_dom": "Medicine",
+      "autores": 33324,
+      "cobertura_pct": 13.0
+    },
+    {
+      "field_dom": "Chemical Engineering",
+      "autores": 123,
+      "cobertura_pct": 13.0
+    },
+    {
+      "field_dom": "Neuroscience",
+      "autores": 915,
+      "cobertura_pct": 12.1
+    },
+    {
+      "field_dom": "Psychology",
+      "autores": 8560,
+      "cobertura_pct": 11.5
+    },
+    {
+      "field_dom": "Energy",
+      "autores": 1535,
+      "cobertura_pct": 10.7
+    },
+    {
+      "field_dom": "Business, Management and Accounting",
+      "autores": 9703,
+      "cobertura_pct": 9.5
+    },
+    {
+      "field_dom": "Health Professions",
+      "autores": 11238,
+      "cobertura_pct": 9.2
+    },
+    {
+      "field_dom": "Social Sciences",
+      "autores": 31486,
+      "cobertura_pct": 9.2
+    },
+    {
+      "field_dom": "Decision Sciences",
+      "autores": 1281,
+      "cobertura_pct": 8.7
+    },
+    {
+      "field_dom": "Economics, Econometrics and Finance",
+      "autores": 10181,
+      "cobertura_pct": 8.6
+    },
+    {
+      "field_dom": "Arts and Humanities",
+      "autores": 5184,
+      "cobertura_pct": 8.3
+    }
+  ],
+  "correlaciones_spearman": {
+    "tamano_subcampo": {
+      "rho": 0.038,
+      "p": 0.585
+    },
+    "produccion_mediana": {
+      "rho": 0.135,
+      "p": 0.0538
+    },
+    "anio_medio_entrada": {
+      "rho": 0.049,
+      "p": 0.488
+    }
+  },
+  "referencia_ia": {
+    "subcampo_1702": "ver cobertura_subcampos.csv"
+  }
+}

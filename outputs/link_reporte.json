@@ -1,0 +1,13 @@
+{
+  "autores_openalex": 191089,
+  "emparejados": 24469,
+  "tasa_global_pct": 12.8,
+  "por_confianza": {
+    "exacta": 9066,
+    "alta": 7969,
+    "media": 7434
+  },
+  "ambiguos_descartados": 3122,
+  "codigos_renacyt_unicos_cubiertos": 10455,
+  "registro_total": 11757
+}

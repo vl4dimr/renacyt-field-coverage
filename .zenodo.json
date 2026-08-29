@@ -1,0 +1,38 @@
+{
+  "title": "Replication package - Measuring what registries miss: field-level coverage of researcher certification against open bibliographic data",
+  "upload_type": "dataset",
+  "description": "Full pipeline and data for measuring field-level coverage of a national researcher registry (RENACYT, Peru) against OpenAlex: harvest of 186,136 Peru-affiliated works (2015-2026), aggregation into 191,089 author profiles, three-tier name linkage, and coverage analysis with Wilson confidence intervals for 204 subfields. Companion to a manuscript submitted to the Journal of Informetrics.",
+  "creators": [
+    {
+      "name": "Mamani Calisaya, Milton Vladimir",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0000-0002-0676-0989"
+    },
+    {
+      "name": "Colquehuanca Zapana, Kris Ximena",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0009-0004-2666-3598"
+    },
+    {
+      "name": "Espinoza Coaquira, Erardo",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0000-0002-6302-9498"
+    },
+    {
+      "name": "Quispe Alata, Yasbel Mercedes",
+      "affiliation": "IEI N. 224 Pequenos Pioneros de San Jose, Puno, Peru",
+      "orcid": "0009-0007-3381-0551"
+    }
+  ],
+  "keywords": [
+    "researcher registries",
+    "coverage",
+    "OpenAlex",
+    "research evaluation",
+    "RENACYT",
+    "scientometrics"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "language": "eng"
+}

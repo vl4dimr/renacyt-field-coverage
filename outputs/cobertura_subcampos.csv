@@ -1,0 +1,205 @@
+﻿subfield_dom,autores,certificados,obras,obras_mediana,cobertura_pct,ci_low,ci_high,cobertura_hasta2023_pct,cobertura_2obras_pct
+Geometry and Topology,78,24,188,1.0,30.8,21.6,41.7,38.0,
+Biochemistry,404,120,1010,1.0,29.7,25.5,34.3,34.0,47.1
+Geochemistry and Petrology,71,18,144,2.0,25.4,16.7,36.6,32.4,33.3
+Ecological Modeling,220,55,680,1.0,25.0,19.7,31.1,28.2,40.4
+Radiation,120,30,250,1.0,25.0,18.1,33.4,27.2,
+Atmospheric Science,542,134,1895,1.0,24.7,21.3,28.5,27.4,37.0
+Animal Science and Zoology,1218,294,3401,1.0,24.1,21.8,26.6,25.9,37.6
+Biomaterials,504,119,1316,1.0,23.6,20.1,27.5,24.2,35.6
+Agronomy and Crop Science,718,169,1953,1.0,23.5,20.6,26.8,25.9,33.5
+"Electronic, Optical and Magnetic Materials",117,27,314,1.0,23.1,16.4,31.5,24.7,26.1
+Small Animals,448,99,1058,1.0,22.1,18.5,26.2,23.3,34.0
+Aquatic Science,609,132,1357,1.0,21.7,18.6,25.1,20.8,31.7
+Environmental Chemistry,407,87,760,1.0,21.4,17.7,25.6,22.6,36.3
+"Ecology, Evolution, Behavior and Systematics",1373,294,4595,1.0,21.4,19.3,23.7,23.1,32.1
+Paleontology,343,72,933,1.0,21.0,17.0,25.6,21.5,36.0
+Analytical Chemistry,478,100,1269,1.0,20.9,17.5,24.8,23.6,38.8
+Horticulture,265,54,759,1.0,20.4,16.0,25.6,20.4,30.0
+Immunology,555,113,1311,1.0,20.4,17.2,23.9,21.2,31.4
+Global and Planetary Change,1532,310,5070,1.0,20.2,18.3,22.3,21.3,31.2
+Oceanography,329,66,1275,1.0,20.1,16.1,24.7,19.3,35.4
+Endocrinology,239,48,527,1.0,20.1,15.5,25.6,21.6,23.8
+Ecology,3159,635,9610,1.0,20.1,18.7,21.5,21.6,30.5
+Food Science,4770,956,13220,1.0,20.0,18.9,21.2,21.6,35.8
+Computer Graphics and Computer-Aided Design,30,6,58,1.0,20.0,9.5,37.3,,
+Statistical and Nonlinear Physics,75,15,141,1.0,20.0,12.5,30.4,19.0,
+Nature and Landscape Conservation,836,165,2440,1.0,19.7,17.2,22.6,20.0,38.5
+Pollution,786,153,1919,1.0,19.5,16.8,22.4,20.1,38.0
+Molecular Medicine,318,62,1040,1.0,19.5,15.5,24.2,25.0,39.5
+Materials Chemistry,606,118,1737,1.0,19.5,16.5,22.8,20.8,33.0
+Complementary and alternative medicine,463,90,1074,1.0,19.4,16.1,23.3,19.6,32.7
+Media Technology,300,58,508,1.0,19.3,15.3,24.2,21.0,34.8
+Health Informatics,242,46,364,1.0,19.0,14.6,24.4,16.7,17.4
+Computational Mechanics,189,36,576,1.0,19.0,14.1,25.2,21.8,34.7
+Algebra and Number Theory,38,7,91,2.0,18.4,9.2,33.4,12.9,
+Statistics and Probability,141,26,267,1.0,18.4,12.9,25.6,17.1,31.6
+Biomedical Engineering,1898,348,5146,1.0,18.3,16.7,20.1,20.0,32.0
+Environmental Engineering,880,161,2459,1.0,18.3,15.9,21.0,18.9,33.1
+Parasitology,684,124,1840,1.0,18.1,15.4,21.2,20.0,34.2
+Applied Psychology,160,29,365,1.0,18.1,12.9,24.8,16.9,21.0
+Cellular and Molecular Neuroscience,172,31,594,1.0,18.0,13.0,24.4,20.4,29.4
+Nutrition and Dietetics,888,160,1775,1.0,18.0,15.6,20.7,19.2,38.8
+Microbiology,258,46,595,1.0,17.8,13.6,23.0,18.1,28.6
+Sensory Systems,45,8,86,1.0,17.8,9.3,31.3,18.2,
+Genetics,2031,360,6576,1.0,17.7,16.1,19.4,18.7,27.1
+Organic Chemistry,222,39,315,1.0,17.6,13.1,23.1,16.6,33.3
+Molecular Biology,1834,321,4992,1.0,17.5,15.8,19.3,18.2,28.2
+Aerospace Engineering,631,110,1713,1.0,17.4,14.7,20.6,22.6,25.6
+Biotechnology,250,43,573,1.0,17.2,13.0,22.4,16.5,24.5
+Plant Science,3279,561,8127,1.0,17.1,15.9,18.4,19.1,33.5
+Applied Mathematics,146,25,333,1.0,17.1,11.9,24.1,15.2,15.8
+Mathematical Physics,70,12,177,1.0,17.1,10.1,27.6,16.7,
+Periodontics,735,124,1989,1.0,16.9,14.3,19.7,17.8,40.5
+Complementary and Manual Therapy,155,26,280,1.0,16.8,11.7,23.4,18.4,26.8
+Electrical and Electronic Engineering,1084,180,2581,1.0,16.6,14.5,18.9,18.7,30.7
+Computer Vision and Pattern Recognition,736,122,1883,1.0,16.6,14.1,19.4,19.0,33.9
+Toxicology,61,10,141,1.0,16.4,9.2,27.6,,
+Infectious Diseases,2854,469,11189,1.0,16.4,15.1,17.8,17.7,28.5
+Computational Theory and Mathematics,202,33,627,1.0,16.3,11.9,22.1,21.2,25.0
+Artificial Intelligence,1854,300,4931,1.0,16.2,14.6,17.9,18.5,28.3
+Cancer Research,474,76,1333,1.0,16.0,13.0,19.6,17.0,23.4
+Astronomy and Astrophysics,337,54,963,1.0,16.0,12.5,20.3,15.5,23.0
+Insect Science,654,104,1429,1.0,15.9,13.3,18.9,16.9,32.6
+Experimental and Cognitive Psychology,653,104,1504,1.0,15.9,13.3,18.9,15.4,24.1
+Developmental Biology,38,6,74,1.0,15.8,7.4,30.4,,
+Psychiatry and Mental health,729,115,2526,1.0,15.8,13.3,18.6,11.5,27.9
+Pathology and Forensic Medicine,968,151,3014,1.0,15.6,13.4,18.0,15.3,25.5
+Geophysics,776,119,1905,1.0,15.3,13.0,18.0,16.1,29.5
+Management of Technology and Innovation,483,73,1154,1.0,15.1,12.2,18.6,15.4,30.0
+Clinical Psychology,3020,454,10563,1.0,15.0,13.8,16.4,15.5,25.6
+Pharmacology,1326,195,2596,1.0,14.7,12.9,16.7,13.5,32.2
+Modeling and Simulation,130,19,346,1.0,14.6,9.6,21.7,13.5,25.0
+Computer Science Applications,2331,339,5398,1.0,14.5,13.2,16.0,19.9,22.7
+Nephrology,310,45,596,1.0,14.5,11.0,18.9,11.9,27.4
+Reproductive Medicine,389,56,715,1.0,14.4,11.3,18.2,15.7,30.0
+"Atomic and Molecular Physics, and Optics",146,21,563,2.0,14.4,9.6,21.0,17.4,22.1
+Family Practice,56,8,107,1.0,14.3,7.4,25.7,10.5,
+Polymers and Plastics,248,35,415,1.0,14.1,10.3,19.0,14.4,
+Cognitive Neuroscience,653,92,1224,1.0,14.1,11.6,17.0,14.5,25.2
+Orthodontics,636,87,1750,1.0,13.7,11.2,16.6,12.9,30.1
+Physiology,964,132,1972,1.0,13.7,11.7,16.0,13.7,23.1
+"Statistics, Probability and Uncertainty",184,25,281,1.0,13.6,9.4,19.3,15.9,
+Computer Networks and Communications,725,98,1603,1.0,13.5,11.2,16.2,16.7,27.5
+Waste Management and Disposal,579,78,857,1.0,13.5,10.9,16.5,14.6,30.1
+Business and International Management,141,19,326,1.0,13.5,8.8,20.1,11.5,17.9
+General Agricultural and Biological Sciences,2880,390,5811,1.0,13.5,12.3,14.8,14.5,23.8
+Epidemiology,3195,432,8145,1.0,13.5,12.4,14.8,13.8,21.7
+Rheumatology,689,92,2047,1.0,13.4,11.0,16.1,9.6,26.1
+Oncology,1331,178,4537,1.0,13.4,11.6,15.3,13.2,21.5
+Nuclear and High Energy Physics,218,29,890,1.0,13.3,9.4,18.5,9.8,10.3
+Water Science and Technology,1732,231,3619,1.0,13.3,11.8,15.0,14.6,36.3
+Architecture,75,10,195,1.0,13.3,7.4,22.8,16.3,16.7
+Automotive Engineering,300,40,566,1.0,13.3,9.9,17.6,14.3,25.3
+Control and Systems Engineering,894,118,2021,1.0,13.2,11.1,15.6,14.9,28.2
+Clinical Biochemistry,70,9,115,1.0,12.9,6.9,22.7,9.6,
+Music,70,9,95,1.0,12.9,6.9,22.7,5.6,
+"Public Health, Environmental and Occupational Health",5075,654,13655,1.0,12.9,12.0,13.8,12.7,27.6
+Building and Construction,1845,236,3988,1.0,12.8,11.3,14.4,14.8,25.2
+Finance,267,34,476,1.0,12.7,9.3,17.3,12.0,19.3
+Ocean Engineering,329,41,487,1.0,12.5,9.3,16.5,12.4,30.4
+"Endocrinology, Diabetes and Metabolism",1143,143,3348,1.0,12.5,10.7,14.6,12.6,17.1
+Civil and Structural Engineering,1712,210,4007,1.0,12.3,10.8,13.9,14.8,27.3
+Immunology and Allergy,49,6,128,1.0,12.2,5.7,24.2,,
+General Dentistry,469,57,1095,1.0,12.2,9.5,15.4,12.6,22.8
+Anesthesiology and Pain Medicine,124,15,216,1.0,12.1,7.5,19.0,10.3,22.2
+Geology,157,19,227,1.0,12.1,7.9,18.1,14.1,23.1
+Forestry,552,67,982,1.0,12.1,9.7,15.1,10.6,26.1
+Mechanical Engineering,799,95,1434,1.0,11.9,9.8,14.3,11.3,19.9
+Emergency Medicine,503,60,1007,1.0,11.9,9.4,15.1,13.1,22.1
+General Health Professions,7838,922,21342,1.0,11.8,11.1,12.5,12.4,24.3
+Energy Engineering and Power Technology,68,8,137,1.0,11.8,6.1,21.5,13.3,
+Mechanics of Materials,255,30,514,1.0,11.8,8.4,16.3,7.8,17.5
+Radiological and Ultrasound Technology,255,30,398,1.0,11.8,8.4,16.3,10.0,33.3
+Archeology,708,83,1578,1.0,11.7,9.6,14.3,12.9,21.5
+Information Systems,5946,695,13838,1.0,11.7,10.9,12.5,13.3,27.4
+Human Factors and Ergonomics,69,8,86,1.0,11.6,6.0,21.2,5.0,
+Marketing,517,60,910,1.0,11.6,9.1,14.7,12.7,37.9
+"Radiology, Nuclear Medicine and Imaging",813,94,1836,1.0,11.6,9.5,13.9,11.6,23.8
+Biophysics,61,7,97,1.0,11.5,5.7,21.8,,
+Health,1065,122,2185,1.0,11.5,9.7,13.5,10.6,21.2
+Health Information Management,355,40,604,1.0,11.3,8.4,15.0,8.2,22.7
+Developmental and Educational Psychology,1376,151,2677,1.0,11.0,9.4,12.7,11.9,19.5
+"Renewable Energy, Sustainability and the Environment",1267,139,2124,1.0,11.0,9.4,12.8,11.8,31.0
+Critical Care and Intensive Care Medicine,272,30,538,1.0,11.0,7.8,15.3,11.4,17.6
+Earth-Surface Processes,101,11,152,1.0,10.9,6.2,18.5,10.7,
+"Health, Toxicology and Mutagenesis",2776,303,5025,1.0,10.9,9.8,12.1,10.8,22.9
+Virology,248,27,1194,1.0,10.9,7.6,15.4,12.5,20.5
+Oral Surgery,1066,114,2713,1.0,10.7,9.0,12.7,10.7,20.4
+History and Philosophy of Science,47,5,86,1.0,10.6,4.6,22.6,3.3,
+Safety Research,615,65,796,1.0,10.6,8.4,13.2,9.4,19.7
+Economics and Econometrics,10572,1123,25701,1.0,10.6,10.0,11.2,11.8,21.9
+Applied Microbiology and Biotechnology,358,38,689,1.0,10.6,7.8,14.2,11.9,19.9
+Cardiology and Cardiovascular Medicine,1460,155,3678,1.0,10.6,9.1,12.3,11.8,17.2
+Geriatrics and Gerontology,160,17,261,1.0,10.6,6.7,16.4,10.7,22.9
+Demography,1738,183,3462,1.0,10.5,9.2,12.1,10.4,17.4
+Education,12600,1323,30356,1.0,10.5,10.0,11.0,12.1,18.8
+Hepatology,268,28,642,1.0,10.4,7.3,14.7,10.7,10.8
+Social Psychology,3840,397,9276,1.0,10.3,9.4,11.3,11.3,27.3
+Neurology,1138,116,3208,1.0,10.2,8.6,12.1,9.3,13.6
+Communication,1605,163,3602,1.0,10.2,8.8,11.7,11.8,19.3
+Numerical Analysis,40,4,88,1.0,10.0,4.0,23.1,,
+Development,674,67,1129,1.0,9.9,7.9,12.4,10.2,16.1
+"General Economics, Econometrics and Finance",324,32,761,1.0,9.9,7.1,13.6,8.5,18.4
+Human-Computer Interaction,332,33,789,1.0,9.9,7.2,13.6,8.4,13.9
+Obstetrics and Gynecology,678,67,1204,1.0,9.9,7.9,12.4,11.0,16.4
+Soil Science,615,60,947,1.0,9.8,7.7,12.4,9.7,28.8
+Pulmonary and Respiratory Medicine,1710,165,4186,1.0,9.6,8.3,11.1,11.4,19.2
+Speech and Hearing,250,24,386,1.0,9.6,6.5,13.9,9.3,20.0
+"Geography, Planning and Development",240,23,332,1.0,9.6,6.5,14.0,7.4,18.8
+Neuropsychology and Physiological Psychology,151,14,186,1.0,9.3,5.6,15.0,12.9,
+"Pediatrics, Perinatology and Child Health",774,72,1443,1.0,9.3,7.5,11.6,7.8,16.6
+Dermatology,359,33,669,1.0,9.2,6.6,12.6,8.6,13.8
+Inorganic Chemistry,98,9,117,1.0,9.2,4.9,16.5,7.5,
+Strategy and Management,1151,106,2552,1.0,9.2,7.7,11.0,9.7,27.1
+Literature and Literary Theory,984,90,2204,1.0,9.1,7.5,11.1,8.2,18.9
+Orthopedics and Sports Medicine,198,18,270,1.0,9.1,5.8,13.9,11.0,
+Cell Biology,248,22,561,1.0,8.9,5.9,13.1,8.6,12.7
+Religious studies,79,7,124,1.0,8.9,4.4,17.2,9.2,
+Spectroscopy,34,3,60,1.0,8.8,3.0,23.0,,
+Sociology and Political Science,4299,375,7218,1.0,8.7,7.9,9.6,8.2,23.2
+Cultural Studies,1670,143,3254,1.0,8.6,7.3,10.0,8.2,13.6
+Anthropology,536,46,1187,1.0,8.6,6.5,11.3,10.1,15.5
+Otorhinolaryngology,82,7,120,1.0,8.5,4.2,16.6,2.6,
+Surgery,2950,250,5537,1.0,8.5,7.5,9.5,8.3,17.4
+Accounting,2315,196,4598,1.0,8.5,7.4,9.7,9.9,16.3
+Gastroenterology,199,17,368,1.0,8.5,5.4,13.3,7.8,13.5
+Language and Linguistics,635,54,1293,1.0,8.5,6.6,10.9,7.8,18.2
+History,358,30,550,1.0,8.4,5.9,11.7,5.2,18.3
+Condensed Matter Physics,36,3,73,1.0,8.3,2.9,21.8,,
+Industrial and Manufacturing Engineering,923,74,1413,1.0,8.0,6.4,9.9,9.4,25.3
+Information Systems and Management,452,36,623,1.0,8.0,5.8,10.8,5.8,12.3
+Transportation,174,14,244,1.0,8.0,4.9,13.1,6.6,
+Gender Studies,611,48,934,1.0,7.9,6.0,10.3,7.1,17.0
+Conservation,183,14,288,1.0,7.7,4.6,12.4,8.0,13.7
+Urology,249,19,367,1.0,7.6,4.9,11.6,7.8,
+Fluid Flow and Transfer Processes,40,3,67,1.0,7.5,2.6,19.9,,
+Hematology,536,40,918,1.0,7.5,5.5,10.0,7.1,12.5
+"Management, Monitoring, Policy and Law",1382,102,2074,1.0,7.4,6.1,8.9,7.6,18.1
+Emergency Medical Services,408,30,673,1.0,7.4,5.2,10.3,7.5,11.3
+Political Science and International Relations,3068,228,5190,1.0,7.4,6.6,8.4,8.2,17.4
+Ophthalmology,260,19,511,1.0,7.3,4.7,11.1,8.3,15.3
+Visual Arts and Performing Arts,738,53,1198,1.0,7.2,5.5,9.3,6.8,22.5
+Transplantation,42,3,52,1.0,7.1,2.5,19.0,3.3,
+Medical Laboratory Technology,187,13,234,1.0,7.0,4.1,11.5,8.0,11.4
+Rehabilitation,174,12,272,1.0,6.9,4.0,11.7,6.3,23.3
+Management Information Systems,1960,136,3674,1.0,6.9,5.9,8.2,6.8,26.3
+Urban Studies,783,53,1204,1.0,6.8,5.2,8.7,6.7,21.1
+"Safety, Risk, Reliability and Quality",120,8,141,1.0,6.7,3.4,12.6,2.9,
+Signal Processing,121,8,134,1.0,6.6,3.4,12.5,1.3,
+General Social Sciences,856,56,1350,1.0,6.5,5.1,8.4,6.9,11.0
+Philosophy,573,37,900,1.0,6.5,4.7,8.8,6.0,15.8
+Endocrine and Autonomic Systems,46,3,92,1.0,6.5,2.2,17.5,8.1,
+Linguistics and Language,219,14,323,1.0,6.4,3.8,10.4,5.0,15.9
+"Physical Therapy, Sports Therapy and Rehabilitation",127,8,176,1.0,6.3,3.2,11.9,6.0,
+Organizational Behavior and Human Resource Management,2021,125,3028,1.0,6.2,5.2,7.3,8.1,13.0
+Occupational Therapy,1328,77,1758,1.0,5.8,4.7,7.2,5.6,17.7
+Pharmacy,443,25,535,1.0,5.6,3.9,8.2,5.1,18.4
+Software,201,11,273,1.0,5.5,3.1,9.5,5.3,
+Law,2986,150,5023,1.0,5.0,4.3,5.9,5.5,10.4
+Management Science and Operations Research,529,25,1004,1.0,4.7,3.2,6.9,3.9,9.3
+"Issues, ethics and legal aspects",45,2,61,1.0,4.4,1.2,14.8,5.4,
+Life-span and Life-course Studies,94,4,121,1.0,4.3,1.7,10.4,6.1,
+Museology,181,7,275,1.0,3.9,1.9,7.8,4.3,7.3
+General Arts and Humanities,83,3,102,1.0,3.6,1.2,10.1,5.0,
+Internal Medicine,44,1,59,1.0,2.3,0.4,11.8,0.0,
