@@ -14,6 +14,11 @@
       "orcid": "0009-0004-2666-3598"
     },
     {
+      "name": "Pari Flores, Jesus",
+      "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
+      "orcid": "0009-0004-8905-0019"
+    },
+    {
       "name": "Espinoza Coaquira, Erardo",
       "affiliation": "Universidad Nacional del Altiplano, Puno, Peru",
       "orcid": "0000-0002-6302-9498"
@@ -33,6 +38,6 @@
     "scientometrics"
   ],
   "license": "cc-by-4.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "language": "eng"
 }
