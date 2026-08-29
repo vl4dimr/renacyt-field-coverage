@@ -1,5 +1,7 @@
 # Field-level registry coverage against open bibliographic data
 
+[![DOI](https://zenodo.org/badge/1350503558.svg)](https://doi.org/10.5281/zenodo.22160752)
+
 Replication package for *Measuring what registries miss: field-level coverage
 of researcher certification against open bibliographic data* (submitted to the
 Journal of Informetrics).
